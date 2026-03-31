@@ -48,12 +48,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik0718&show_icons=true&theme=radical)
-
----
-
 ## 🔥 Top Skills
 - Machine Learning  
 - Data Analysis  
