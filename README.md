@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Pratik Khetmalis
 
-<h3 align="center">Machine Learning Engineer | AI Engineer | Data Analytics | Python | SQL | Generative AI</h3>
+<h3 align="center">Machine Learning Engineer | AI Engineer | Data Analytics | Python | Generative AI</h3>
 
 <p align="center">
   <a href="https://github.com/Pratik0718">
